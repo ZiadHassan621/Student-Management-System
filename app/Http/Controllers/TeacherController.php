@@ -60,7 +60,7 @@ class TeacherController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(c $c)
+    public function edit()
     {
         //
     }
